@@ -1,0 +1,68 @@
+@charset "utf-8";
+#todo {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #D6D6D6;
+}
+#banner img {
+}
+
+#texto3 {
+	font-family: "Viner Hand ITC";
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	color: #edc4d9;
+}
+#titulospeques {
+	
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "High Tower Text";
+	font-size: 20px;
+	font-style: normal;
+	color: #c12c64;
+	text-align: center;
+}
+#textocentral {
+	font-family: rockwell;
+	font-size: 14px;
+	font-style: oblique;
+	color: #b5a68b;
+}
+#textocentral {
+	font-family: rockwell;
+	font-size: 18px;
+	font-style: oblique;
+	color: ccbfa7;
+	text-align: center;
+}
+.centradodetodo {
+	text-align: justify;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#titulo_libros {
+	font-family: "High Tower Text";
+	font-size: 24px;
+	color: #068ba7;
+	text-align: center;
+}
+#letra_libros {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #aa8f5e;
+}
+#blog {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #b5a68b;
+}
+#blog {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #996666;
+	text-align: justify;
+}
